@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Media Suite Data Stories]]></title><description><![CDATA[Stories from Dutch multimedia archives, powered by the Media Suite]]></description><link>https://mediasuite.clariah.nl</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 25 Mar 2020 10:34:30 GMT</lastBuildDate><item><title><![CDATA[15 jaar De Wereld Draait Door]]></title><description><![CDATA[2005-2020, einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD is een van de populairste programma’s op de Nederlandse…]]></description><link>https://mediasuite.clariah.nl/DWDD/</link><guid isPermaLink="false">https://mediasuite.clariah.nl/DWDD/</guid><pubDate>Tue, 10 Mar 2020 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;2005-2020, einde van een tijdperk: De Wereld Draait Door stopt na 15 jaar. DWDD is een van de populairste programma’s op de Nederlandse televisie. Kijk mee naar 15 jaar tv-geschiedenis door de ogen van het Beeld en Geluid-archief, mogelijk gemaakt door &lt;a href=&quot;https://mediasuite.clariah.nl/&quot;&gt;Media Suite&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Kenmerkend voor het programma is het hoge tempo waarin onderwerpen elkaar afwisselen en het brede scala aan onderwerpen dat ter tafel komt. Marc-Marie Huijbregts over zijn samenwerking met DWDD: “Het begon als een vergissing, zoals eigenlijk alles in mijn leven.” In een uitzending in 2009 nam hij afscheid van zijn ‘cavia’ en ging vanaf toen kaal door het leven. “Tafelheer bij DWDD is wel mijn favoriete baan, als alles mag en niks moet.”&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Media Suite Data Stories]]></title><description><![CDATA[Stories from Dutch multimedia archives, powered by the Media Suite]]></description><link>https://mediasuite.clariah.nl</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 31 Mar 2020 21:44:45 GMT</lastBuildDate><item><title><![CDATA[15 jaar De Wereld Draait Door]]></title><description><![CDATA[Sinds bekend is dat DWDD stopt, worden lijstjes gedeeld en conclusies getrokken over het programma. Hoe kun je tot zulke inzichten komen…]]></description><link>https://mediasuite.clariah.nl/DWDD/</link><guid isPermaLink="false">https://mediasuite.clariah.nl/DWDD/</guid><pubDate>Tue, 31 Mar 2020 16:12:03 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Sinds bekend is dat DWDD stopt, worden lijstjes gedeeld en conclusies getrokken over het programma. Hoe kun je tot zulke inzichten komen? Onderzoekers kijken vaak naar patronen op basis van data. Kijk mee door de lens van het Beeld en Geluid-archief. En ontdek wat er zoal valt af te leiden uit 15 seizoenen DWDD (2005-2020) met behulp van de &lt;a href=&quot;https://mediasuite.clariah.nl/&quot;&gt;Media Suite&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Met de Media Suite kunnen onderzoekers gebruikmaken van tools als metadata inspectie, data-visualisaties, zoeken, visuele analyse, annotatie en spraakherkenning om in televisieprogramma’s en bijbehorende metadata te speuren.&lt;/p&gt;
+&lt;h3&gt;Metadata&lt;/h3&gt;
+&lt;p&gt;Het tv-archief van Beeld en Geluid gaat vele jaren terug en door de tijd is er op verschillende manieren gearchiveerd. Voor deze data story, hebben we zowel handmatige metadata uit het verleden geanalyseerd, (bijvoorbeeld om de locaties van DWDD letterlijk in kaart te brengen), alsook recente automatische metadata (bijvoorbeeld om spreeksnelheid te berekenen). Daarnaast stelt kunstmatige intelligentie ons ook in staat om 15 jaar DWDD aan de hand van beelden zelf te bekijken.&lt;/p&gt;
+&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1655704/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;De top 100 meest besproken locaties (toegekend door archivarissen)&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Analyse&lt;/h3&gt;
+&lt;p&gt;De metadata van het Beeld en Geluid archief bestaat uit beschrijvingen die representeren hoe menselijke archivarissen of digitale algoritmen het programma hebben geanalyseerd. Maar televisie is juist een visueel medium, dus we hebben ook beeldverwerking toegepast om zo als het ware software naar alle afleveringen te laten kijken en de beelden te analyseren.&lt;/p&gt;
+&lt;h3&gt;TV-geschiedenis&lt;/h3&gt;
+&lt;p&gt;27 maart 2020 kwam een einde aan een tijdperk uit de Nederlandse tv-geschiedenis. DWDD was een van de populairste en invloedrijkste programma’s op de televisie. Kenmerkend voor DWDD is het hoge tempo waarin onderwerpen elkaar afwisselen en het brede scala aan onderwerpen dat ter tafel komt. Met de Media Suite kun je die afwisseling zichtbaar maken door weer te geven hoe vaak bepaalde onderwerpen door archivarissen zijn toegekend aan een DWDD-uitzending.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 572px;&quot;
@@ -17,8 +25,8 @@
   &gt;&lt;/span&gt;
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Top 100 subjects&quot;
-        title=&quot;Top 100 subjects&quot;
+        alt=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
+        title=&quot;Wordcloud van de  Top 100 meest voorkomende onderwerpen (toegekend door archivarissen) &quot;
         src=&quot;/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/a805e/top-100-subjects.png&quot;
         srcset=&quot;/data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/12f09/top-100-subjects.png 148w,
 /data-stories/static/dd47a53b0ff312d66b8f9dde8d9236e0/e4a3f/top-100-subjects.png 295w,
@@ -28,91 +36,69 @@
         loading=&quot;lazy&quot;
       /&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1625100/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:530px;&apos;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;em&gt;[figure needs caption]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Het meest invloedrijk is DWDD waarschijnlijk geweest met ingewikkelde materie toegankelijk maken voor een breed publiek. The DWDD University will be missed! is een veel geziene reactie bij het nieuws. Zo legt Robert Dijkgraaf in Jip en Janneke-taal uit wat de oerknal inhoudt en kunnen we de volgende dag meepraten over technologische ontwikkelingen na een item met Alexander Klöpping. En wie wist vóór DWDD wie Alexander Klöpping, Akwasi of Özcan Akyol was?&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/data-stories/static/9de9289a2effa523f1777503b4cacb17/0fcea/explicitly-noted-guests.png&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 50.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsSAAALEgHS3X78AAACSElEQVQozx2SyY7bMBBE9f//kmNyyz0xMpNB7BmP5VUitXKRRHHR1q4wIUA0u8EGX1cx6YL/lrvqISZ5krNOL2Oell6kRxWj6dLBq7QLbVrbOs16EWtDOnqfZkWT1qVOZdWn1ujPoW/5skxfEuX8CXii8QrDalHEWLkRdvIIYQOhx4IubgVDD4R47oOHdhrGGwg1QAiNf2uZ1t+Jm5e9nwhXJrY7V9QqR6zW1EhFwzhRdmvpcRckmo5MMHS+MqoaTZ2wVFUl1SbmIVsnzJif689EensA1kjEyW5FZN3QmA6ZbmE3hzwrcbsUeD8wSO3w+uOK60espSVeX87gUkMGt4VI2Bm7S5qgDiGOEzZJxeWI8srRcoma1eDnEjVvwfIKuWzAlYCZZ/C+Q+cd6vjwXdZ4yHpzNEOLcZfIqTssEdfTRC/pEfv3M+6PAlUl8Sv7wLnMwdsKeh4Q7+I8ZGiCjFo3KNwNIkQAz7YBLUopd0kbCZcotV09vZk97v4SG0uotcKf7h2fVQY+CHyUdzRaY9+cUfoWj4Hj3nPwscKhP2/RMtzbYpcstOzDukKNbpVGkw2Keiup80U0Iaf0cqU8v1HVKrpxSUKO5O1EbaWpjGY1rKei6JZtA7S0P5N53U5jTBrjwF2PPI5VryP41ONio3aLQEVR+N7hlAvUg0XJ44CNRZif0F5Cj+L/tzHGvSUbPb9P29KwUebcdeyoanaUNStMz7ybmBosu2nNTmXLXtKcHXjNSqGZ6gWbaGDdUrD56TK/eb3S+vUvUPXp/+mFH1EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Explicitly annotated guests&quot;
-        title=&quot;Explicitly annotated guests&quot;
-        src=&quot;/data-stories/static/9de9289a2effa523f1777503b4cacb17/fcda8/explicitly-noted-guests.png&quot;
-        srcset=&quot;/data-stories/static/9de9289a2effa523f1777503b4cacb17/12f09/explicitly-noted-guests.png 148w,
-/data-stories/static/9de9289a2effa523f1777503b4cacb17/e4a3f/explicitly-noted-guests.png 295w,
-/data-stories/static/9de9289a2effa523f1777503b4cacb17/fcda8/explicitly-noted-guests.png 590w,
-/data-stories/static/9de9289a2effa523f1777503b4cacb17/0fcea/explicitly-noted-guests.png 851w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
     &lt;/span&gt;
-&lt;em&gt;[Explicitly annotated guests]&lt;/em&gt;&lt;/p&gt;
-&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1625272/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:530px;&apos;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;em&gt;[figure needs caption]&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;DWDD besteedt ruim aandacht aan cultuur. Live gedichten door Nico Dijkshoorn, de vaste huisband. Klassiekers in een nieuw jasje met de DWDD Recordings. Zo zet ook acteurs, schrijvers, bands en singer songwriters op de kaart. DWDD recordings [..] Besproken ‘Boeken van de Maand’ werden bestsellers […]
-Halina Reijn deelt bij het 5-jarige jubileum hoe blij ze is dat DWDD acteurs en theatermakers op de kaart heeft gezet. “Matthijs is een uniek persoon, die met nieuwsgierig en passie mensen ondervraagd en hij is altijd en heel positief, heel on-Nederlands,” aldus de actrice.&lt;/p&gt;
-&lt;p&gt;Hoewel er verschillende andere presentatoren de revue passeerden (Francisco van Jole, Claudia de Breij, Joost Karhof) is de populariteit van het programma vooral te danken aan Matthijs van Nieuwkerk. Hij is “verbaal behendig, vloeiend en dwingend en zijn stijl gedistingeerd en nonchalant,” aldus Genootschap Onze Taal. “Dat laatste komt ook tot uitdrukking in zijn kleding: hij draagt altijd een pak dat net een paar maten te klein is.” &lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/data-stories/static/3df98788aac7be355b16eef0deb85e13/a2510/timeline-mvnfaces.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 38.513513513513516%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBP/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAGahekM/wD/xAAYEAEAAwEAAAAAAAAAAAAAAAADAQIEAP/aAAgBAQABBQJ9JsYaKDWd9I7/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAAREyEiEx/9oACAEBAAY/AsebGrSyrP/EABkQAAIDAQAAAAAAAAAAAAAAAAERACExkf/aAAgBAQABPyG5Ts9j2kmOhDqPaf/aAAwDAQACAAMAAAAQc8//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QQyb/xAAWEQEBAQAAAAAAAAAAAAAAAAARARD/2gAIAQIBAT8Qi5//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRYYH/2gAIAQEAAT8QEW4CU0vj7MuGOhgPeoMRUvAZ/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Matthijs van Nieuwkerk in het DWDD openingsshot over de jaren&quot;
-        title=&quot;Matthijs van Nieuwkerk in het DWDD openingsshot over de jaren&quot;
-        src=&quot;/data-stories/static/3df98788aac7be355b16eef0deb85e13/1c72d/timeline-mvnfaces.jpg&quot;
-        srcset=&quot;/data-stories/static/3df98788aac7be355b16eef0deb85e13/a80bd/timeline-mvnfaces.jpg 148w,
-/data-stories/static/3df98788aac7be355b16eef0deb85e13/1c91a/timeline-mvnfaces.jpg 295w,
-/data-stories/static/3df98788aac7be355b16eef0deb85e13/1c72d/timeline-mvnfaces.jpg 590w,
-/data-stories/static/3df98788aac7be355b16eef0deb85e13/a8a14/timeline-mvnfaces.jpg 885w,
-/data-stories/static/3df98788aac7be355b16eef0deb85e13/a2510/timeline-mvnfaces.jpg 1000w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;[Haakje. Iets over deze timeframe.] Beweeg je cursor over deze tijdlijn en zie hoe het DWDD openingsshot met Matthijs van Nieuwkerk door de jaren heen veranderd is. Hoeveel grijze haren of rimpels kreeg Matthijs van Nieuwkerk er door de jaren heen bij? […]&lt;/em&gt;&lt;/p&gt;
-&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1472683/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:530px;&apos;&gt;&lt;/iframe&gt;
-&lt;h2&gt;Een van de invloedrijkste en populairste programma’s in de Nederlandse tv-geschiedenis. Waarom?&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Matthijs presentator&lt;/strong&gt; -  1169 keer, dan volgen Claudia de Breij met 57 en Francisco van Jole met 23. Maar… de presentator wordt vaak niet aangeven, staat vaak op seizoensniveau&lt;/p&gt;
-&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1522615/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:530px;&apos;&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;em&gt;(om nog te updaten zodat het door gaat tot nu)&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Powered by Media Suite&lt;/h2&gt;
-&lt;p&gt;Er zitten schatten aan informatie in het archief van Beeld en Geluid, niet alleen tastbaar, maar ook in de metadata. Informatie over informatie. Met de Media Suite kunnen we metadata [uitleggen wat we precies doen]&lt;/p&gt;
-&lt;p&gt;Vanaf 2005 kunnen we data afleiden uit … Vanaf 2014 gaat het via spraakherkenning en analyse van ondertiteling. Hoe kunnen we bijvoorbeeld het verschil zien tussen een genodigde van DWDD en iemand die besproken wordt in een clip? Voor grote lijnen maakt het niet zoveel uit. Je ziet dat door de jaren heen de manier van metadata invoeren is veranderd. […]&lt;/p&gt;
-&lt;p&gt;De Media Suite is een online omgeving, ontwikkeld door CLARIAH en Beeld en Geluid. Deze omgeving maakt het mogelijk onderzoek uit te voeren met grootschalige multimediale erfgoedcollecties.&lt;/p&gt;
+&lt;em&gt;Wordcloud van de Top 100 meest voorkomende onderwerpen (toegekend door archivarissen)&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Distant and close reading&lt;/h3&gt;
+&lt;p&gt;Zulke weergaves geven een idee van de spreiding van onderwerpen van alle DWDD-uitzendingen vanuit helicopterview (&lt;em&gt;distant reading&lt;/em&gt;). Met de Media Suite kan je steeds verder inzoomen, om bijvoorbeeld de precieze getallen per onderwerp te zien en uiteindelijk individuele programma’s met specifieke onderwerpen te gaan bekijken en analyseren (&lt;em&gt;close reading&lt;/em&gt;).&lt;/p&gt;
+&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1625100/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Top 10 meest besproken (door archivarissen toegekende) onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Wat bijzonder dat tv-programma’s het meest ter sprake kwamen.
+Is BNN-Vara biased …?&lt;/p&gt;
+&lt;h3&gt;Oerknal&lt;/h3&gt;
+&lt;p&gt;Het meest invloedrijk is DWDD waarschijnlijk geweest met ingewikkelde materie toegankelijk maken voor een breed publiek. Zo legde Robbert Dijkgraaf in Jip en Janneke-taal uit wat de oerknal inhoudt en kunnen we de volgende dag meepraten over technologische ontwikkelingen na een item met Alexander Klöpping.&lt;/p&gt;
+&lt;p&gt;Ons vermoeden is dat als we het aantal wetenschappelijke onderwerpen besproken in DWDD zouden vergelijken met een ander prime-time tv-programma, DWDD er met kop en schouders bovenuit zou steken.&lt;/p&gt;
+&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1625272/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Top 10 meest besproken (door archivarissen toegekende) wetenschappelijke onderwerpen in termen van aantal afleveringen van DWDD, gemeten in de periode 2005-2015&lt;/em&gt;&lt;/p&gt;
+&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1731894/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Aantal afleveringen waarin bepaalde wetenschappelijke onderwerpen besproken (toegekend door archivarissen) worden, gemeten in de periode 2005-2015&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Verbaal behendig&lt;/h3&gt;
+&lt;p&gt;Matthijs van Nieuwkerk is “verbaal behendig, vloeiend en dwingend,” vat Genootschap Onze Taal samen in &lt;a href=&quot;https://myprivacy.dpgmedia.net/?siteKey=w38GrtRHtDg4T8xq&amp;#x26;callbackUrl=https://www.trouw.nl/privacy-wall/accept?redirectUri=%2fcultuur-media%2fmatthijs-van-nieuwkerk-gooit-het-roer-om%7eb63fd414%2f&quot;&gt;Trouw&lt;/a&gt;. Hij staat erom bekend dat hij snel praat. Gemiddeld is 130 woorden per minuut. Een snelle spreker spreekt 160 woorden per minuut. Dat is ook de spreeksnelheid van Matthijs van Nieuwkerk. Behalve in de introductie van het programma.&lt;/p&gt;
+&lt;p&gt;We hebben de spreeksnelheid gemeten in de eerste 2 minuten van DWDD en dit afgezet tegen de intro van Jinek. Hier combineren we de automatische technieken van sprekerherkenning (Wie praat?) en spraakherkenning (Wat werd gezegd?):&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Nog verder uitwerken Top 5 kijkcijfers (via poll?)&lt;/li&gt;
-&lt;li&gt;Best bekeken uitzending linkje met corona&lt;/li&gt;
-&lt;li&gt;Nog verder uitwerken, indien mogelijk: Corona data viz&lt;/li&gt;
+&lt;li&gt;Matthijs van Nieuwkerk: 189 woorden per minuut (160 gemiddeld)&lt;/li&gt;
+&lt;li&gt;Eva Jinek: 145 woorden per minuut (158 gemiddeld)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Was het altijd gezellig in de studio? Nee, zo had Matthijs van Nieuwkerk ook wel eens een aanvaring. Peter R. de Vries, Frits Spits. Rob Oudkerk [voorbeelden]&lt;/p&gt;
-&lt;p&gt;27 maart is/was echt de laatste uitzending. Aan alles komt een eind, maar vergeet niet: de wereld draait doorrrrrrrrrrrrrrr…&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;h3&gt;Sprekerherkenning&lt;/h3&gt;
+&lt;p&gt;Hoewel Matthijs en Eva even snel praten tijdens de show, verschilt de snelheid in hun intro. Zet de intro de toon van het programma? Zou je kunnen aantonen of de spreeksnelheid van tv-presentatoren door de jaren heen is veranderd? Zapt de kijker weg bij het begin van het programma als iemand te snel of langzaam praat?&lt;/p&gt;
+&lt;p&gt;Met sprekerherkenning kan je ook berekenen hoeveel tijd van het programma de presentator het woord neemt. We vergelijken hier Eva Jinek, Matthijs van Nieuwkerk en Jeroen Pauw in de seizoenen 2018 en 2019.&lt;/p&gt;
+&lt;iframe src=&apos;https://public.flourish.studio/visualisation/1732423/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;Percentage van de programmalengte waarvoor de presentator aan het woord is&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Wat zou je hier zoal uit kunnen opmaken? Is het zo dat vrouwelijke talkshowhosts altijd minder aan het woord zijn dan hun mannelijke collega’s? Welke onderzoeker of student voelt zich geroepen om hier verder onderzoek naar te doen in de Media Suite?&lt;/p&gt;
+&lt;h3&gt;Beste kijkcijfers&lt;/h3&gt;
+&lt;p&gt;De Top 5 van beste kijkcijfers van DWDD begin maart 2020 nog bestond uit:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;23 maart 2015: 2.151.000 kijkers&lt;/li&gt;
+&lt;li&gt;20 januari 2017: 2.016.000 kijkers&lt;/li&gt;
+&lt;li&gt;9 november 2016: 1.998.000 kijkers&lt;/li&gt;
+&lt;li&gt;8 januari 2014: 1.782.000 kijkers&lt;/li&gt;
+&lt;li&gt;2 maart 2018: 1.767.000 kijkers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vorige week, echter, zijn deze data allemaal uit de top verstoten door heel recente uitzendingen: 23, 16, 20, 19 en 17 maart 2020 zijn nu de best bekeken DWDD-uitzendingen ooit (tussen de 2.151.000 en 4.561.000 kijkers). Opmerkelijk is dat het allemaal uitzendingen zonder publiek zijn in verband met &lt;em&gt;social distancing&lt;/em&gt;. Ook de geplande line-up sneuvelde, het coronavirus vormt een rode draad in alle uitzendingen. Is DWDD een baken in de storm in tijden van pandemie?&lt;/p&gt;
+&lt;h3&gt;Corona&lt;/h3&gt;
+&lt;p&gt;Omdat we kunnen analyseren wat er in gezegd wordt, leek het ons interessant om corona-gerelateerde woorden (ziek, slachtoffer, virus) in de uitzendingen van 2020 te vergelijken met vermelding in de uitzendingen het jaar ervoor. We halen deze informatie uit de ondertitels voor doven en slechthorenden (Teletekstpagina 888). &lt;iframe src=&apos;https://public.flourish.studio/visualisation/1686453/embed&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:600px;&apos;&gt;&lt;/iframe&gt;
+&lt;em&gt;Woorden vermeld in ondertitels in dezelfde periode in 2019 en in 2020&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Zoals je ziet komt het woord ‘ziek’ begin 2019 ook vaak voor. Het is natuurlijk het klassieke griepseizoen. De woorden ‘virus’ en en ‘slachtoffer’ daarentegen vertonen pieken in 2020 ten opzichte van voorgaand jaar.&lt;/p&gt;
+&lt;h3&gt;Zwanenzang&lt;/h3&gt;
+&lt;p&gt;Is Matthijs onze hoop in bange dagen? Of houden Nederlanders niet van verandering? Vaststaat dat DWDD piekt in populariteit met de aller-allerlaatste uitzendingen.&lt;/p&gt;
+&lt;p&gt;In het begin werd DWDD gepresenteerd door Francisco van Jole (23 keer tot december 2005). Uit de Media Suite haalden we dat ook Claudia de Breij DWDD 57 keer presenteerde door de jaren heen. Maar de populariteit van het programma is vooral te danken aan Matthijs van Nieuwkerk. Matthijs ís DWDD.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/data-stories/04dc1e3ce9d42654e7d65fab07e48bb5/15jaarmvn-8fps.gif&quot; alt=&quot;15 jaar Matthijs van Nieuwkerk&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Matthijs van Nieuwkerk, hét gezicht van DWDD. Een keyframe per maand van 15 seizoenen.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Zie je verandering in kledingstijl? We vroegen ons ook af hoe het programma door al die jaren heen visueel is veranderd of juist niet. Daarom leek het ons interessant om in te zoomen op een van de meest herkenbare onderdelen van het format: het DWDD-openingsshot.&lt;/p&gt;
+&lt;h3&gt;Gekruiste armen&lt;/h3&gt;
+&lt;p&gt;Om 15 jaar aan openingsshots te kunnen bekijken hebben we in twee stappen automatische beeldanalyse toegepast. Eerst hebben we &lt;em&gt;shot detection&lt;/em&gt; gebruikt om de verschillende shots van het programma los te knippen. Vervolgens hebben we met deze shots een &lt;em&gt;machine learning&lt;/em&gt; model getraind om specifiek openingsshots te onderscheiden.&lt;/p&gt;
+&lt;p&gt;Gewapend met een heuse openingsshot-detector hebben we een van onze servers 2826 afleveringen laten doorlopen. Het resultaat? Heel veel Matthijs van Nieuwkerk met gekruiste armen! Hieronder zie je deze poses sinds het begin van DWDD achter elkaar gezet.&lt;/p&gt;
+&lt;iframe src=&apos;https://beeldengeluid.github.io/frameviewer-dwdd/&apos; frameborder=&apos;0&apos; scrolling=&apos;no&apos; style=&apos;width:100%;height:213px ;&apos;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;em&gt;15 jaar ‘welkom’ door Matthijs van Nieuwkerk in één beeldje per maand&lt;/em&gt;&lt;/p&gt;
+&lt;h3&gt;Powered by Media Suite: Wat waren onze uitdagingen?&lt;/h3&gt;
+&lt;p&gt;De Media Suite is een online onderzoeksomgeving, ontwikkeld door &lt;a href=&quot;https://www.clariah.nl/en/&quot;&gt;CLARIAH&lt;/a&gt; en &lt;a href=&quot;https://www.beeldengeluid.nl/&quot;&gt;Beeld en Geluid&lt;/a&gt; speciaal voor (data-gedreven) onderzoek. Media Suite biedt toegang tot multimediale bronnen van diverse Nederlandse archieven zoals die van Beeld en Geluid, verrijkt met behulp van spraak- en beeldherkenning. &lt;a href=&quot;https://mediasuite.clariah.nl/documentation/faq/what-is-it&quot;&gt;Lees meer over de Media Suite&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Bijzonderheden&lt;/h3&gt;
+&lt;p&gt;Snel inzoomen op een gewenste aflevering is één kant van de Media Suite. Maar wat als je juist het grotere geheel wil zien? Door metadata te analyseren, kun je trends ontdekken, of juist een onregelmatigheid die je aandacht trekt. De data-visualisaties in deze blog geven een beeld van DWDD als geheel, en ze onthullen ook bijzonderheden die prikkelen om verdere vragen te stellen.&lt;/p&gt;
+&lt;h3&gt;Geen absolute waarheid&lt;/h3&gt;
+&lt;p&gt;Data bieden geen absolute waarheid, maar worden echter gekleurd door de processen waarmee ze zijn verzameld. Voorheen werden DWDD-afleveringen handmatig voorzien van metadata. Sinds 2015 worden veel metadata automatisch gegenereerd, bijvoorbeeld door stemmen of gezichten te herkennen. Handmatige metadata is meestal van goede kwaliteit. We weten bijvoorbeeld vrij zeker dat wanneer er iemand als gast staat genoteerd, diegene daadwerkelijk in die uitzending aanwezig was.&lt;/p&gt;
+&lt;p&gt;Maar stel je voor dat er in diezelfde uitzending iemand te gast was die toentertijd onbelangrijk werd gevonden, maar later beroemd is geworden. Die persoon zal waarschijnlijk niet door de expert zijn opgemerkt. Met automatische processen kunnen we metadata op grotere schaal genereren, dus als iemand een paar zinnen heeft gesproken, is diegene al terug te vinden.&lt;/p&gt;
+&lt;h3&gt;Algoritmes&lt;/h3&gt;
+&lt;p&gt;Maar was die persoon een gast op het programma, of verscheen hij alleen in een clip? En hoe zeker zijn we dat het om die persoon ging? Geen enkel algoritme is perfect, en doorgaans ook nog niet slim genoeg om abstracte concepten zoals ‘onderwerp’ te herkennen. Om deze reden zie je recente onderwerpen zoals ‘coronavirus’ niet terug in het onderwerpoverzicht van DWDD.&lt;/p&gt;
+&lt;p&gt;Uit data en data-visualisaties mag je dus nooit zomaar klakkeloos conclusies trekken. Om de complexe boodschap van data te ontwarren bieden we in de Media Suite ondersteuning in het begrijpen van de afkomst van de data, zodat onderzoekers de juiste conclusies kunnen trekken.&lt;/p&gt;
+&lt;h3&gt;Vertel je eigen data story&lt;/h3&gt;
+&lt;p&gt;Onderzoekers met een login bij een Nederlandse universiteit mogen de volledige Media Suite collecties verkennen. Ontdek de mogelijkheden en vertel je eigen data story!&lt;/p&gt;
+&lt;p&gt;Met bijdragen van: Philo van Kemenade, Nanne van Noord, Muriel van Peteghem en Mari Wigham (Beeld en Geluid)&lt;/p&gt;</content:encoded></item></channel></rss>
